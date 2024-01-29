@@ -1,1 +1,1 @@
-Created Software Company Website as final prject of Nexus Web Development Winter Internship.
+Created Software Company Website as final project of Nexus Web Development Winter Internship.
